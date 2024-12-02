@@ -1,6 +1,8 @@
 BUILDING ML MODEL
+
 1.Train the datasets in Google Collab
   - ML model will be created with .sav extension
+
 2.Save the model in your system
 
 CREATING USER INTERFACE
